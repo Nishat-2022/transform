@@ -1,0 +1,22 @@
+/*img{
+	width:300px;
+	height:auto;
+	cursor: pointer;
+	transition: 2s 3s linear;
+	margin: 300px auto;
+	display:block;
+	border: 5px solid seagreen;
+	outline: 10px dotted pink;
+	outline-offset: 10px;
+	border-radius: 20px 0px 20px 0px;
+}
+/*img:hover{
+	/*transform:translate(-300px,300px);*/
+	/*transform:rotateX(-180deg);*/
+	/*transform: scale(2);
+	/*transform: skew(60deg);*/
+	/*border-radius: 0px 20px 0px 20px;	
+	outline: 10px solid skyblue;
+	outline-offset: 5px;
+}*/
+
